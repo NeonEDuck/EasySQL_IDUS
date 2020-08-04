@@ -1,0 +1,6 @@
+﻿__pycache__
+.vscode
+build
+dist
+main.spec
+sqlSetting.cfg
